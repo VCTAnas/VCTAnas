@@ -1,4 +1,4 @@
-<h1 align="center">Yo BRO💪🏼 Anas</h1>
+<h1 align="center">Yo BRO💪🏼 </h1>
 <h3 align="center">A beginner in coding and robotics👾</h3>
 
 - 🔭 I’m currently working on [WRO](https://wro-association.org/competition/2024-season/)

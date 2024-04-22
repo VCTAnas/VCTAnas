@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **robotics**
 
-- 📫 How to reach me (pro) **anas-inou@protonmail.com**
+- 📫 How to reach me (pro) **anas934@protonmaiL.com**
 
 - ⚡ Fun fact **Chop is the dog of Franklin in GTA5**
 
